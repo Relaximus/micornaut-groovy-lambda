@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: mn.hello.world
+---
+testFramework: spock
+sourceLanguage: groovy
